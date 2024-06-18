@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @IanDve
-- 👀 I’m interested in coding a website for gamers ...
-- 🌱 I’m currently learning Python and Java 
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate with anyone who wants to learn in the process ...
-- 📫 Reach me on discord or telegram 
 
 <!---
 IanDve/IanDve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
